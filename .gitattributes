@@ -1,0 +1,2 @@
+data/19th_20th_speeches_all.zip filter=lfs diff=lfs merge=lfs -text
+data/final_data.csv filter=lfs diff=lfs merge=lfs -text

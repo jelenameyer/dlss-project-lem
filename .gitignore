@@ -1,0 +1,11 @@
+# add all model tensor data
+*.safetensors
+
+
+# add data at temporary versions
+data/complete_data.csv
+data/speeches.csv
+
+# add classifier data (extra preprocessed)
+data/classifier_data_A.csv
+data/classifier_data_B.csv
