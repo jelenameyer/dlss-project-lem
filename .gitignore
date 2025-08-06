@@ -10,5 +10,7 @@ data/speeches.csv
 data/classifier_data_A.csv
 data/classifier_data_B.csv
 
-# add best model
+# add best model and second best
 Classifier_gbert_fulltext_weighted/
+BertGc_fulltext_model/
+Models/
