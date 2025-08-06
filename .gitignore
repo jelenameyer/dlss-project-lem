@@ -9,3 +9,6 @@ data/speeches.csv
 # add classifier data (extra preprocessed)
 data/classifier_data_A.csv
 data/classifier_data_B.csv
+
+# add best model
+Classifier_gbert_fulltext_weighted/
