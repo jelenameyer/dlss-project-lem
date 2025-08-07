@@ -25,11 +25,13 @@ data:
 
 report:
 - finalize method section 4.2 with all subsections
+    - explain prompts
 - proofread results section 5.0-5.2, check if I have referenced your models correctly and interpreted it according to what you think
 - Pascal: write section 5.3
 - proofread Discussion section, again check my interpretations of your models
 - Pascal: add Discussion part of results 5.3 to Discssion
 - proofread all and check if anything is missing/inconclusive
+- include exemplary paragraphs of generated speeches? maybe in appendix?
 
 für @Estelle
 - final proofreading
