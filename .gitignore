@@ -1,6 +1,8 @@
 # add all model tensor data
 *.safetensors
 
+# add raw speeches
+data/19th_20th_speeches_all/
 
 # add data at temporary versions
 data/complete_data.csv
