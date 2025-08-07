@@ -20,11 +20,10 @@ data:
 - cleanup generated_speeches_data (keep only CSVs that we need)
 - cleanup Wahl-O-Mat_results... (keep only CSVs that we need)
 
-
 report:
 - ! check for your names via search !
 - finalize method section 4.2 with all subsections
-    - explain prompts
+    - explain ChatGPT usage, include prompts
 - proofread results section 5.0-5.2, check if I have referenced your models correctly and interpreted it according to what you think
 - Pascal: write section 5.3
 - proofread Discussion section, again check my interpretations of your models
@@ -32,13 +31,14 @@ report:
 - proofread all and check if anything is missing/inconclusive
 - include exemplary paragraphs of generated speeches? maybe in appendix?
 
-repository:
+für @Estelle
+- repository:
 - update this README
 - clean old README
-
-für @Estelle
+- 
 - final proofreading
 - send to Giordano
+
 
 And then we are done! :)
     
