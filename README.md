@@ -32,6 +32,10 @@ report:
 - proofread all and check if anything is missing/inconclusive
 - include exemplary paragraphs of generated speeches? maybe in appendix?
 
+repository:
+- update this README
+- clean old README
+
 für @Estelle
 - final proofreading
 - send to Giordano
