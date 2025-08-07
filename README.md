@@ -24,6 +24,7 @@ data:
 
 
 report:
+- ! check for your names via search !
 - finalize method section 4.2 with all subsections
     - explain prompts
 - proofread results section 5.0-5.2, check if I have referenced your models correctly and interpreted it according to what you think
