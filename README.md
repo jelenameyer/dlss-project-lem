@@ -13,13 +13,11 @@ Some of the intermediate data objects and model weights are not saved in the new
 for @Elena und @Pascal
 
 code:
-- cleanup script 0.0/0.1_handle_speeches.ipynb
 - cleanup script 3.0/3.1_Generator... (or rather do we need both)
 - Pascal: add all analyses to sentiment under "4.2_validation_via_Sentiment_Analysis.ipanb"
 
 data:
 - cleanup generated_speeches_data (keep only CSVs that we need)
-- what is "test_speeches_by_title.csv"?
 - cleanup Wahl-O-Mat_results... (keep only CSVs that we need)
 
 
