@@ -11,6 +11,7 @@ Some of the intermediate data objects and model weights are not saved in the new
 ## ToDo till Deadline:
 
 for @Elena und @Pascal
+
 code:
 - cleanup script 0.0/0.1_handle_speeches.ipynb
 - cleanup script 3.0/3.1_Generator... (or rather do we need both)
@@ -30,7 +31,7 @@ report:
 - Pascal: add Discussion part of results 5.3 to Discssion
 - proofread all and check if anything is missing/inconclusive
 
-@Estelle
+für @Estelle
 - final proofreading
 - send to Giordano
 
