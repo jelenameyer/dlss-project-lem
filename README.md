@@ -13,25 +13,17 @@ Some of the intermediate data objects and model weights are not saved in the new
 for @Elena und @Pascal
 
 code:
-- cleanup script 3.0/3.1_Generator... (or rather do we need both)
 - Pascal: add all analyses to sentiment under "4.2_validation_via_Sentiment_Analysis.ipanb"
 
 data:
-- cleanup generated_speeches_data (keep only CSVs that we need)
-- cleanup Wahl-O-Mat_results... (keep only CSVs that we need)
 
 report:
 - ! check for your names via search !
 - finalize method section 4.2 with all subsections
     - explain ChatGPT usage, include prompts
-- proofread results section 5.0-5.2, check if I have referenced your models correctly and interpreted it according to what you think
 - Pascal: write section 5.3
-- proofread Discussion section, again check my interpretations of your models
 - Pascal: add Discussion part of results 5.3 to Discssion
-- proofread all and check if anything is missing/inconclusive
-- include exemplary paragraphs of generated speeches? maybe in appendix?
 
-für @Estelle
 
 !! We added a new generation model (in different variations). Unfortuntley, the WeTransfer Link was not valid anymore, so we could not access you best model for the final classification (Notebook 4.0)
 Elena re-ran the training of the best model to have some classifications for the plots and results. But the re-trained model did not reach the exact same performance as your version.
@@ -39,8 +31,12 @@ Therefore:
 - rerun the 4.0 notebook with your classifier (I adapted the all code to run, we just need your model). Furthermore, I added a text preprocessing step to remove "\n" before classification.
 - download the new validation results plot and import to Overleaf
 - Adapt Table 4 Results in the Report
-- 
+- --> classification and performances will change, so 5.0 Results will need to be rewritten
+- proofread results section 5.0-5.2, check if I have referenced your models correctly and interpreted it according to what you think
+- proofread Discussion section, again check my interpretations of your models
+- proofread all and check if anything is missing/inconclusive
 
+für @Estelle
 - repository:
 - update this README
 - clean old README
