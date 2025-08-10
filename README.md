@@ -32,6 +32,15 @@ report:
 - include exemplary paragraphs of generated speeches? maybe in appendix?
 
 für @Estelle
+
+!! We added a new generation model (in different variations). Unfortuntley, the WeTransfer Link was not valid anymore, so we could not access you best model for the final classification (Notebook 4.0)
+Elena re-ran the training of the best model to have some classifications for the plots and results. But the re-trained model did not reach the exact same performance as your version.
+Therefore:
+- rerun the 4.0 notebook with your classifier (I adapted the all code to run, we just need your model). Furthermore, I added a text preprocessing step to remove "\n" before classification.
+- download the new validation results plot and import to Overleaf
+- Adapt Table 4 Results in the Report
+- 
+
 - repository:
 - update this README
 - clean old README
