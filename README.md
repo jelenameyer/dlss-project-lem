@@ -13,7 +13,6 @@ Some of the intermediate data objects and model weights are not saved in the new
 for @Elena und @Pascal
 
 code:
-- Pascal: add all analyses to sentiment under "4.2_validation_via_Sentiment_Analysis.ipanb"
 
 data:
 
@@ -25,11 +24,6 @@ report:
 - Pascal: add Discussion part of results 5.3 to Discssion
 
 
-!! We added a new generation model (in different variations). Unfortuntley, the WeTransfer Link was not valid anymore, so we could not access you best model for the final classification (Notebook 4.0)
-Elena re-ran the training of the best model to have some classifications for the plots and results. But the re-trained model did not reach the exact same performance as your version.
-Therefore:
-- rerun the 4.0 notebook with your classifier (I adapted the all code to run, we just need your model). Furthermore, I added a text preprocessing step to remove "\n" before classification.
-- download the new validation results plot and import to Overleaf
 - Adapt Table 4 Results in the Report
 - --> classification and performances will change, so 5.0 Results will need to be rewritten
 - proofread results section 5.0-5.2, check if I have referenced your models correctly and interpreted it according to what you think
