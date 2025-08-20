@@ -10,32 +10,13 @@ Some of the intermediate data objects and model weights are not saved in the new
 
 ## ToDo till Deadline:
 
-for @Elena und @Pascal
-
-code:
-
-data:
-
-report:
-- ! check for your names via search !
-- finalize method section 4.2 with all subsections
-    - explain ChatGPT usage, include prompts
-- Pascal: write section 5.3
-- Pascal: add Discussion part of results 5.3 to Discssion
-
-
-- Adapt Table 4 Results in the Report
-- --> classification and performances will change, so 5.0 Results will need to be rewritten
-- proofread results section 5.0-5.2, check if I have referenced your models correctly and interpreted it according to what you think
-- proofread Discussion section, again check my interpretations of your models
-- proofread all and check if anything is missing/inconclusive
-
 für @Estelle
 - repository:
 - update this README
 - clean old README
-- 
-- final proofreading
+
+- final proofreading of the report
+- evtl. ajdust pagebreaks to have nice alignment of plots, text and chapters (?)
 - send to Giordano
 
 
