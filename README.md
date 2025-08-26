@@ -16,12 +16,6 @@ für @Estelle
 - clean old README
 
 - final proofreading of the report
-- opinions on page- and linebreaks? I (Elena) tried to have nice alignment of plots, text and chapters. For linebreaks, I tried to structure things in coherent paragraphs (talking about the same model or metholdology) etc. and add new lined (with indent) hen raising new aspects of the same issue/topi/model. Hope, thats fine. Otherwise, feel free to adapt and change
-- I (Elena) am unsure on the structure for the Discussion part (what should go where). I placed the general discussion under 6, did not add anything to 6.1, repeated limitations (which Imentioned beforehand) in 6.2 but I am lacking inspiration/creativity for 6.3. If you have ideas on 2,3 sentences to add, feel free. Otherwise, I am fine like this.
-
-  
-- send to Giordano
-
 
 And then we are done! :)
     
