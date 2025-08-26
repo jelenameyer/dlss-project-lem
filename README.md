@@ -13,7 +13,15 @@ All other data files can be found in the **data** folder.
 ### Code files
 
 0.X preparation of data
+
+
 1.X Preprocessing and Exploration
+
+
 2.X Development of the Classifier(s)
+
+
 3.X Development of the Generator(s)
+
+
 4.X Validations
