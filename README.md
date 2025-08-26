@@ -6,16 +6,3 @@ We opened and finalized in this second Git Repository due  to lfs size constrain
 
 In the code folder, all files are logically named in numerical order and can (with a lot of computing power) be executed one after the other in the specified order to obtain the final test results.
 Some of the intermediate data objects and model weights are not saved in the new repository version due to their large size but can all be obtained by running the corresponding codebooks.
-
-
-## ToDo till Deadline:
-
-für @Estelle
-- repository:
-- update this README
-- clean old README
-
-- final proofreading of the report
-
-And then we are done! :)
-    
