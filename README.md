@@ -1,5 +1,9 @@
 # DLSS Final Project: Legis ex Machina
 
+- [View project report](report/DLSS_Final_Project.pdf)
+- [Download report as PDF](https://github.com/jelenameyer/dlss-project-lem/raw/main/report/DLSS_Final_Project.pdf)
+
+
 Important: All work until 06.08.2025 (12:00) was done in Repo https://github.com/EstelleKlevenz/dlss-legis-ex-machina. 
 
 We opened and finalized in this second Git Repository due to lfs size constraints.
